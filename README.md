@@ -4,6 +4,7 @@ Personal project visualizing the Equity Risk Premium per country to show market 
 Files: 
 
 Project.py -> Main file 
+
 Ctryprem.csv -> CSV file with Equity Risk Premium calculations and other market data (Source: http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html - Credit goes to Aswath Damodaran)
 
 
