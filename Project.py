@@ -14,9 +14,18 @@ init_notebook_mode(connected=True) ##connect notebook
 def p2f(x):
     return float(x.strip('%'))
 
+def c2f(x):
+    return float(x.strip(','))
+
+def d2f(x):
+    return float(x.strip('$'))
+
 Ctryprem = pd.read_csv(r"C:\Users\Admin\Desktop\Programming\IFC poverty project\ctryprem.csv",converters={'Equity Risk Premium':p2f}) # Data related to Country risk premium and Moody's rating (risk)
-FDI = pd.read_csv(r"C:\Users\Admin\Desktop\Programming\IFC poverty project\API_BX.KLT.DINV.CD.WD_DS2_en_csv_v2_10399842.csv") #Foreign direct investment per country
+FDI = pd.read_csv(r"C:\Users\Admin\Desktop\Programming\IFC poverty project\FDI_Final.csv") #Foreign direct investment per country
 Ctryprem.head()
+FDI.head()
+
+#clean FDI data, groupby year sum each country
 
 
 #Chroropleth maps of market risk by Country
@@ -34,13 +43,37 @@ data = dict(
 layout = dict(
     title = 'Equity Risk Premiums Worldwide',
     geo = dict(
-        showframe = True,
+        showframe = False,
         projection = {'type':'mercator'}
     )
 )
 
+
+#Chloropleth map of FDI investment per country
+data = dict(
+        type = 'choropleth',
+        colorscale='Viridis',
+        reversescale = True,
+        locations = FDI['Country Name'],
+        locationmode = "country names",
+        z = FDI['Total FDI'],
+        text = FDI['Country Code'],
+        colorbar = {'title' : 'Incoming FDI investment'},
+      )
+
+layout = dict(
+    title = 'Foreign Direct Investment Received since 1960',
+    geo = dict(
+        showframe = False,
+        projection = {'type':'mercator'}
+    )
+)
 choromap = go.Figure(data = [data],layout = layout)
 iplot(choromap,validate=False)
+
+
+
+
 
 
 #Regression/coeff/correlation of Market risk to FDI amount
