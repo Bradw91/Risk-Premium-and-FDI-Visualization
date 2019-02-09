@@ -1,0 +1,153 @@
+﻿Country,GDP (in billions),Moody's rating,Adj. Default Spread,Equity Risk Premium,Country Risk Premium,Corporate Tax Rate,Region
+Abu Dhabi,415,Aa2,0.56%,6.65%,0.69%,55.00%,Middle East
+Albania,13.04,B1,5.08%,12.21%,6.25%,15.00%,Eastern Europe & Russia
+Andorra (Principality of),3.01,Baa2,2.15%,8.60%,2.64%,10.00%,Western Europe
+Angola,124.21,B3,7.34%,14.99%,9.03%,30.00%,Africa
+Argentina,637.59,B2,6.21%,13.60%,7.64%,30.00%,Central and South America
+Armenia,11.54,B1,5.08%,12.21%,6.25%,20.00%,Eastern Europe & Russia
+Aruba,3,Baa1,1.80%,8.18%,2.22%,25.00%,Caribbean
+Australia,1323.42,Aaa,0.00%,5.96%,0.00%,30.00%,Australia & New Zealand
+Austria,416.6,Aa1,0.45%,6.51%,0.55%,25.00%,Western Europe
+Azerbaijan,40.75,Ba2,3.39%,10.13%,4.17%,20.00%,Eastern Europe & Russia
+Bahamas,12.16,Baa3,2.48%,9.02%,3.06%,0.00%,Caribbean
+Bahrain,35.31,B2,6.21%,13.60%,7.64%,0.00%,Middle East
+Bangladesh,249.72,Ba3,4.06%,10.96%,5.00%,25.00%,Asia
+Barbados,4.8,Caa3,11.28%,19.83%,13.87%,30.00%,Caribbean
+Belarus,54.44,B3,7.34%,14.99%,9.03%,18.00%,Eastern Europe & Russia
+Belgium,492.68,Aa3,0.68%,6.80%,0.84%,29.00%,Western Europe
+Belize,1.84,B3,7.34%,14.99%,9.03%,28.21%,Central and South America
+Benin,9.27,B1,5.08%,12.21%,6.25%,30.00%,Africa
+Bermuda,6.2,A2,0.96%,7.14%,1.18%,0.00%,Caribbean
+Bolivia,37.51,Ba3,4.06%,10.96%,5.00%,25.00%,Central and South America
+Bosnia and Herzegovina,18.17,B3,7.34%,14.99%,9.03%,10.00%,Eastern Europe & Russia
+Botswana,17.41,A2,0.96%,7.14%,1.18%,22.00%,Africa
+Brazil,2055.51,Ba2,3.39%,10.13%,4.17%,34.00%,Central and South America
+Bulgaria,56.83,Baa2,2.15%,8.60%,2.64%,10.00%,Eastern Europe & Russia
+Burkina Faso,12.87,B2,6.21%,13.60%,7.64%,28.00%,Africa
+Cambodia,22.16,B2,6.21%,13.60%,7.64%,20.00%,Asia
+Cameroon,34.8,B2,6.21%,13.60%,7.64%,33.00%,Africa
+Canada,1653.04,Aaa,0.00%,5.96%,0.00%,26.50%,North America
+Cape Verde,3.2,B2,6.21%,13.60%,7.64%,28.00%,Africa
+Cayman Islands,1.9,Aa3,0.68%,6.80%,0.84%,0.00%,Caribbean
+Chile,277.08,A1,0.79%,6.94%,0.98%,26.00%,Central and South America
+China,12237.7,A1,0.79%,6.94%,0.98%,25.00%,Asia
+Colombia,309.19,Baa2,2.15%,8.60%,2.64%,33.00%,Central and South America
+Congo (Democratic Republic of),37.24,B3,7.34%,14.99%,9.03%,35.00%,Africa
+Congo (Republic of),8.72,Caa2,10.16%,18.46%,12.50%,28.00%,Africa
+Cook Islands,1.2,B1,5.08%,12.21%,6.25%,0.00%,Australia & New Zealand
+Costa Rica,57.06,B1,5.08%,12.21%,6.25%,30.00%,Central and South America
+Côte d'Ivoire,40.39,Ba3,4.06%,10.96%,5.00%,25.00%,Africa
+Croatia,54.85,Ba2,3.39%,10.13%,4.17%,18.00%,Eastern Europe & Russia
+Cuba,81.6,Caa2,10.16%,18.46%,12.50%,24.00%,Caribbean
+Curacao,1,A3,1.35%,7.63%,1.67%,22.00%,Caribbean
+Cyprus,21.65,Ba2,3.39%,10.13%,4.17%,12.50%,Western Europe
+Czech Republic,215.73,A1,0.79%,6.94%,0.98%,19.00%,Eastern Europe & Russia
+Denmark,324.87,Aaa,0.00%,5.96%,0.00%,22.00%,Western Europe
+Dominican Republic,75.93,Ba3,4.06%,10.96%,5.00%,27.00%,Caribbean
+Ecuador,103.06,B3,7.34%,14.99%,9.03%,25.00%,Central and South America
+Egypt,235.37,B3,7.34%,14.99%,9.03%,23.00%,Africa
+El Salvador,24.81,Caa1,8.46%,16.37%,10.41%,30.00%,Central and South America
+Estonia,25.92,A1,0.79%,6.94%,0.98%,20.00%,Eastern Europe & Russia
+Ethiopia,80.56,B1,5.08%,12.21%,6.25%,30.00%,Africa
+Fiji,5.06,Ba3,4.06%,10.96%,5.00%,20.00%,Asia
+Finland,251.88,Aa1,0.45%,6.51%,0.55%,20.00%,Western Europe
+France,2582.5,Aa2,0.56%,6.65%,0.69%,33.00%,Western Europe
+Gabon,14.62,Caa1,8.46%,16.37%,10.41%,30.00%,Africa
+Georgia,15.16,Ba2,3.39%,10.13%,4.17%,31.00%,Eastern Europe & Russia
+Germany,3677.44,Aaa,0.00%,5.96%,0.00%,15.00%,Western Europe
+Ghana,47.33,B3,7.34%,14.99%,9.03%,25.00%,Africa
+Greece,200.29,B3,7.34%,14.99%,9.03%,29.00%,Western Europe
+Guatemala,75.62,Ba1,2.82%,9.43%,3.47%,25.00%,Central and South America
+Guernsey (States of),0.5,Aa3,0.68%,6.80%,0.84%,0.00%,Western Europe
+Honduras,22.98,B1,5.08%,12.21%,6.25%,25.00%,Central and South America
+Hong Kong,341.45,Aa2,0.56%,6.65%,0.69%,16.50%,Asia
+Hungary,139.14,Baa3,2.48%,9.02%,3.06%,9.00%,Eastern Europe & Russia
+Iceland,23.91,A3,1.35%,7.63%,1.67%,20.00%,Western Europe
+India,2597.49,Baa2,2.15%,8.60%,2.64%,35.00%,Asia
+Indonesia,1015.54,Baa2,2.15%,8.60%,2.64%,25.00%,Asia
+Iraq,197.72,Caa1,8.46%,16.37%,10.41%,15.00%,Middle East
+Ireland,333.73,A2,0.96%,7.14%,1.18%,12.50%,Western Europe
+Isle of Man,7.4,Aa2,0.56%,6.65%,0.69%,0.00%,Western Europe
+Israel,350.85,A1,0.79%,6.94%,0.98%,23.00%,Middle East
+Italy,1934.8,Baa3,2.48%,9.02%,3.06%,24.00%,Western Europe
+Jamaica,14.77,B3,7.34%,14.99%,9.03%,25.00%,Caribbean
+Japan,4872.14,A1,0.79%,6.94%,0.98%,30.86%,Asia
+Jersey (States of),1,Aa3,0.68%,6.80%,0.84%,20.00%,Western Europe
+Jordan,40.07,B1,5.08%,12.21%,6.25%,20.00%,Middle East
+Kazakhstan,159.41,Baa3,2.48%,9.02%,3.06%,20.00%,Eastern Europe & Russia
+Kenya,74.94,B2,6.21%,13.60%,7.64%,30.00%,Africa
+Korea,1530.75,Aa2,0.56%,6.65%,0.69%,25.00%,Asia
+Kuwait,120.13,Aa2,0.56%,6.65%,0.69%,15.00%,Middle East
+Kyrgyzstan,7.56,B2,6.21%,13.60%,7.64%,10.00%,Eastern Europe & Russia
+Latvia,30.26,A3,1.35%,7.63%,1.67%,20.00%,Eastern Europe & Russia
+Lebanon,51.84,B3,7.34%,14.99%,9.03%,15.00%,Middle East
+Liechtenstein,6.7,Aaa,0.00%,5.96%,0.00%,12.50%,Western Europe
+Lithuania,47.17,A3,1.35%,7.63%,1.67%,15.00%,Eastern Europe & Russia
+Luxembourg,62.4,Aaa,0.00%,5.96%,0.00%,26.01%,Western Europe
+Macao,62.4,Aa3,0.68%,6.80%,0.84%,12.00%,Asia
+Macedonia,50.36,Ba3,4.06%,10.96%,5.00%,10.00%,Eastern Europe & Russia
+Malaysia,314.5,A3,1.35%,7.63%,1.67%,24.00%,Asia
+Maldives,4.6,B2,6.21%,13.60%,7.64%,0.00%,Asia
+Malta,12.54,A3,1.35%,7.63%,1.67%,35.00%,Western Europe
+Mauritius,13.34,Baa1,1.80%,8.18%,2.22%,15.00%,Asia
+Mexico,1149.92,A3,1.35%,7.63%,1.67%,30.00%,Central and South America
+Moldova,8.13,B3,7.34%,14.99%,9.03%,12.00%,Eastern Europe & Russia
+Mongolia,11.49,B3,7.34%,14.99%,9.03%,33.00%,Asia
+Montenegro,4.77,B1,5.08%,12.21%,6.25%,9.00%,Eastern Europe & Russia
+Montserrat,1.5,Baa3,2.48%,9.02%,3.06%,27.98%,Caribbean
+Morocco,109.14,Ba1,2.82%,9.43%,3.47%,31.00%,Africa
+Mozambique,12.33,Caa3,11.28%,19.83%,13.87%,32.00%,Africa
+Namibia,13.24,Ba1,2.82%,9.43%,3.47%,32.00%,Africa
+Netherlands,826.2,Aaa,0.00%,5.96%,0.00%,25.00%,Western Europe
+New Zealand,205.85,Aaa,0.00%,5.96%,0.00%,28.00%,Australia & New Zealand
+Nicaragua,13.81,B2,6.21%,13.60%,7.64%,30.00%,Central and South America
+Nigeria,375.77,B2,6.21%,13.60%,7.64%,30.00%,Africa
+Norway,398.83,Aaa,0.00%,5.96%,0.00%,23.00%,Western Europe
+Oman,72.64,Baa3,2.48%,9.02%,3.06%,15.00%,Middle East
+Pakistan,304.95,B3,7.34%,14.99%,9.03%,30.00%,Asia
+Panama,61.84,Baa2,2.15%,8.60%,2.64%,25.00%,Central and South America
+Papua New Guinea,21.09,B2,6.21%,13.60%,7.64%,30.00%,Asia
+Paraguay,29.73,Ba1,2.82%,9.43%,3.47%,10.00%,Central and South America
+Peru,211.39,A3,1.35%,7.63%,1.67%,29.50%,Central and South America
+Philippines,313.6,Baa2,2.15%,8.60%,2.64%,30.00%,Asia
+Poland,524.51,A2,0.96%,7.14%,1.18%,19.00%,Eastern Europe & Russia
+Portugal,217.57,Baa3,2.48%,9.02%,3.06%,21.00%,Western Europe
+Qatar,167.61,Aa3,0.68%,6.80%,0.84%,10.00%,Middle East
+Ras Al Khaimah (Emirate of),5.2,A2,0.96%,7.14%,1.18%,0.00%,Middle East
+Romania,211.8,Baa3,2.48%,9.02%,3.06%,16.00%,Eastern Europe & Russia
+Russia,1577.52,Ba1,2.82%,9.43%,3.47%,20.00%,Eastern Europe & Russia
+Rwanda,9.14,B2,6.21%,13.60%,7.64%,30.00%,Africa
+Saudi Arabia,683.83,A1,0.79%,6.94%,0.98%,20.00%,Middle East
+Senegal,16.37,Ba3,4.06%,10.96%,5.00%,30.00%,Africa
+Serbia,41.43,Ba3,4.06%,10.96%,5.00%,15.00%,Eastern Europe & Russia
+Sharjah,5,A3,1.35%,7.63%,1.67%,20.00%,Middle East
+Singapore,323.91,Aaa,0.00%,5.96%,0.00%,17.00%,Asia
+Slovakia,95.77,A2,0.96%,7.14%,1.18%,21.00%,Eastern Europe & Russia
+Slovenia,48.77,Baa1,1.80%,8.18%,2.22%,19.00%,Eastern Europe & Russia
+Solomon Islands,1.3,B3,7.34%,14.99%,9.03%,30.00%,Asia
+South Africa,349.42,Baa3,2.48%,9.02%,3.06%,28.00%,Africa
+Spain,1311.32,Baa1,1.80%,8.18%,2.22%,25.00%,Western Europe
+Sri Lanka,87.17,B1,5.08%,12.21%,6.25%,28.00%,Asia
+St. Maarten,1.5,Baa2,2.15%,8.60%,2.64%,35.00%,Caribbean
+St. Vincent & the Grenadines,0.77,B3,7.34%,14.99%,9.03%,20.00%,Caribbean
+Suriname,3.32,B2,6.21%,13.60%,7.64%,36.00%,Central and South America
+Swaziland,3.72,B2,6.21%,13.60%,7.64%,28.00%,Africa
+Sweden,538.04,Aaa,0.00%,5.96%,0.00%,22.00%,Western Europe
+Switzerland,678.89,Aaa,0.00%,5.96%,0.00%,18.00%,Western Europe
+Taiwan,970.9,Aa3,1.80%,8.18%,2.22%,20.00%,Asia
+Tajikistan,7.15,B3,2.82%,9.43%,3.47%,20.00%,Eastern Europe & Russia
+Tanzania,52.09,B1,5.08%,12.21%,6.25%,30.00%,Africa
+Thailand,455.22,Baa1,1.80%,8.18%,2.22%,20.00%,Asia
+Trinidad and Tobago,22.1,Ba1,2.82%,9.43%,3.47%,25.00%,Caribbean
+Tunisia,40.26,B2,6.21%,13.60%,7.64%,25.00%,Africa
+Turkey,851.1,Ba3,4.06%,10.96%,5.00%,22.00%,Western Europe
+Turks and Caicos Islands,1.5,Baa1,1.80%,8.18%,2.22%,0.00%,Caribbean
+Uganda,25.89,B2,6.21%,13.60%,7.64%,30.00%,Africa
+Ukraine,112.15,Caa1,8.46%,16.37%,10.41%,18.00%,Eastern Europe & Russia
+United Arab Emirates,382.58,Aa2,0.56%,6.65%,0.69%,55.00%,Middle East
+United Kingdom,2622.43,Aa2,0.56%,6.65%,0.69%,19.00%,Western Europe
+United States,19390.6,Aaa,0.00%,5.96%,0.00%,25.00%,North America
+Uruguay,56.16,Baa2,2.15%,8.60%,2.64%,25.00%,Central and South America
+Venezuela,250,C,18.00%,28.10%,22.14%,34.00%,Central and South America
+Vietnam,223.86,Ba3,4.06%,10.96%,5.00%,20.00%,Asia
+Zambia,25.81,Caa1,8.46%,16.37%,10.41%,35.00%,Africa
